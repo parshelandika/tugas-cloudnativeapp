@@ -1,7 +1,7 @@
 # tugas-cloudnativeapp
 Tugas Teknologi Cloud
 
-config database
+Config Database
 
 Username : root
 
